@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: June 03, 2025
+Last updated: June 21, 2025
 
 Thank you for using Power Log.
 
@@ -87,7 +87,13 @@ The Company may use Personal Data for the following purposes:
 - __To contact You:__ To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
 - __To provide You__ with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
 - __To manage Your requests:__ To attend and manage Your requests to Us.
-- __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. 
+- __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
+
+### Analytics
+We may use third-party Service providers to monitor and analyze the use of our Service.
+
+- Firebase Analyics. Firebase Analytics is an analytics service provided by Google Inc. [Open Firebase Analyics Privacy Policy](https://firebase.google.com/support/privacy)
+- Firebase Crashlytics. Firebase Crashlytics is a service that tracks errors and crashes provided by Google Inc. [Open Firebase Crashlytics Privacy Policy](https://firebase.google.com/support/privacy)
 
 ### Data We may collect in the future
 
@@ -111,7 +117,7 @@ The Company will take all steps reasonably necessary to ensure that Your data is
 
 ### Delete Your Personal Data
 
-You have the right to request the deletion of your personal data where, for example, the personal data are no longer necessary for the purposes for which they were collected, where you withdraw your consent to processing, where there is no overriding legitimate interest for us to continue to process your personal data. If you would like to delete your personal data, please contact us using email kotlan.studio@gmail.com.
+You have the right to request the deletion of your personal data where, for example, the personal data are no longer necessary for the purposes for which they were collected, where you withdraw your consent to processing, where there is no overriding legitimate interest for us to continue to process your personal data. If you would like to delete your personal data, please contact us using email kotlan.develop@gmail.com.
 
 ### Disclosure of Your Personal Data
 
@@ -132,23 +138,6 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 ### Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Children's Privacy
 
@@ -176,4 +165,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 
-- By email: kotlan.studio@gmail.com
+- By email: kotlan.develop@gmail.com
